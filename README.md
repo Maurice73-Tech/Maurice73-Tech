@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Python and Django
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... Webdevelopment
@@ -10,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... :sunglasses:
--->
+- :computer: I'm coding in :snake: Python, Java, JavaScript, HTML, CSS
+- :goal_net: My goals for the future are ... learning node.js and php
